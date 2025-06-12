@@ -31,7 +31,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahdhairya12&show_icons=true&theme=github_dark" width="45%" />
+  <!-- Total commits and repository count -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdhairya12&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" width="45%" />
+  
+  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdhairya12&layout=compact&theme=github_dark" width="45%" />
 </p>
 
@@ -48,9 +51,8 @@
 
 ## ✨ Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahdhairyah/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahdhairyah) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahdhairya12)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahdhairyah/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahdhairya12)
 
 ---
 
@@ -58,9 +60,6 @@
 
 <p align="center">
   <a href="https://github.com/shahdhairya12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-   <a href="https://github.com/shahdhairyah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/shahdhairyah/" target="_blank">
